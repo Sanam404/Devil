@@ -15,9 +15,9 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Random`
-- `git clone https://github.com/DAKU-MAKER/Random`
+- `git clone https://github.com/Sanam404/Devil`
 - `cd Random`
-- `python Daku.py`
+- `cat README.md`
      
 
  ```This Tools is Paid Enjoy```</br>
